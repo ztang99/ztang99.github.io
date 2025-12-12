@@ -23,11 +23,11 @@ repository               : "ztang99/ztang99.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : 
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. with 5+ years of experience in translational genetics, computational genomics, and biomedical informatics."
   location         : "St. Louis, MO"
-  employer         : "Washington University in St. Louis"
+  employer         : "Washington University School of Medicine"
   uri              : # URL
   email            : "zitian.tang325@gmail.com" 
 
