@@ -36,7 +36,6 @@ Happy to connect via LinkedIn!
 
 **I am actively looking for full-time bioinformatics scientist position starting summer 2026. Feel free to reach out via email to discuss any potential opportunities.**
 
-</section>
 
 <section id="education" markdown="1">
 
@@ -50,7 +49,6 @@ Happy to connect via LinkedIn!
 
 **Minor in Computer Science (AI track)** • Georgia Institute of Technology • Atlanta, GA • 2021 • 4.00 GPA
 
-</section>
 
 <section id="awards" markdown="1">
 
@@ -61,7 +59,6 @@ Happy to connect via LinkedIn!
 * Outstanding Academic Achievements Award (Nomination), Georgia Institute of Technology [2021]
 * Faculty Honors and Dean's List recipient, Georgia Institute of Technology [2018 - 2021]
 
-</section>
 
 <section id="portfolio" markdown="1">
 
@@ -79,4 +76,3 @@ Happy to connect via LinkedIn!
 
 Kong N*, Tang Z*, et al. "A Comprehensive Benchmarking Resource for Somatic Variant Detection using HapMap Mixtures and Human Pangenome Graphs". Preprint available on bioRxiv. (2025)
 
-</section>
