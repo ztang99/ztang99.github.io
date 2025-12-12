@@ -83,11 +83,11 @@ Future projects:
 <section id="publication" markdown="1">
 
 ## Publications / Talks
-* Kong N*, **Tang Z***, et al. “A Comprehensive Benchmarking Resource for Somatic Variant Detection using HapMap Mixtures and Human Pangenome Graphs”. Available on bioRxiv. (2025)
-* **Tang Z***, Ovunc S*, et al. “Heterozygous and Homozygous RFC1 AAGGG Repeat Expansions are Common in Idiopathic Peripheral Neuropathy”. Available on medRxiv. (2025)
+* Kong N\*, **Tang Z**\*, et al. “A Comprehensive Benchmarking Resource for Somatic Variant Detection using HapMap Mixtures and Human Pangenome Graphs”. Available on bioRxiv. (2025)
+* **Tang Z**\*, Ovunc S\*, et al. “Heterozygous and Homozygous RFC1 AAGGG Repeat Expansions are Common in Idiopathic Peripheral Neuropathy”. Available on medRxiv. (2025)
 * **Somatic Mosaicism across Human Tissues Network**, Alexej Abyzov. "Comprehensive benchmarking of somatic mutation detection by the SMaHT Network". Available on bioRxiv. (2025)
 * Coorens THH, ...; **Somatic Mosaicism across Human Tissues Network**. “The somatic Mosaicism across Human Tissues Network”. Nature. 2025 Jul;643(8070):47-59. doi: 10.1038/s41586-025-09096-7. Epub 2025 Jul 2. PMID: 40604182.
-* Choi J*, **Tang Z***, et al. “Unleashing the Power of Multi-Omics: Unraveling the Molecular Landscape of Peripheral Neuropathy”. Ann Clin Transl Neurol. 2025 Apr;12(4):674-685. doi: 10.1002/acn3.70019. Epub 2025 Mar 24. PMID: 40126913; PMCID: PMC12040521.
+* Choi J\*, **Tang Z**\*, et al. “Unleashing the Power of Multi-Omics: Unraveling the Molecular Landscape of Peripheral Neuropathy”. Ann Clin Transl Neurol. 2025 Apr;12(4):674-685. doi: 10.1002/acn3.70019. Epub 2025 Mar 24. PMID: 40126913; PMCID: PMC12040521.
 * Invited Talk: Program Showcase for Immersion at Washington University School of Medicine. Nominated by graduate program faculty members. Aug 2024.
 
 
@@ -106,6 +106,8 @@ Minor in Computer Science (AI track) • Georgia Institute of Technology • Atl
 
 
 <section id="work-experience" markdown="1">
+
+## Work Experiences
 
 Engineering Intern • Motus Nova LLC • 2022.01 - 2022.06 • Atlanta, GA
 * Contributed to the manufacturing process of FDA-listed medical devices for stroke tele-rehabilitation by following established assembly protocols and utilizing precision tooling skills.
