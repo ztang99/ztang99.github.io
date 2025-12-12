@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. with 5+ years of experience in translational genetics, computational genomics, and biomedical informatics. Strong communicator and collaborator passionate about translating bioinformatics research into real-world solutions.
+Hi there 👋 I'm Zitian. I'm a graduating Ph.D. in bioinformatics. 
+
+I'm super interested in how computational genomics and biomedical informatics help translate research findings to clinical outcomes. 
+
+I'm a strong problem-solver, communicator, and collaborator passionate about translating bioinformatics research into real-world solutions.
+
+Happy to connect via LinkedIn!
 
 **I am actively looking for full-time bioinformatics scientist position starting summer 2026. Feel free to reach out via email to discuss any potential opportunities.**
