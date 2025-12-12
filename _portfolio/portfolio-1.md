@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "A Pangenomic Method for Establishing a Somatic Variant Detection Resource in HapMap Mixtures"
 collection: portfolio
+permalink: /portfolio/project-1/
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Introduction sentence placeholder]
+
+**Code:** [https://github.com/ztang99/Graph-Based-Benchmark](https://github.com/ztang99/Graph-Based-Benchmark)
+
+**Benchmark resource:** [https://github.com/jinlab-washu/HapMap-BenchmarkSet-Manuscript](https://github.com/jinlab-washu/HapMap-BenchmarkSet-Manuscript)
+
+**Manuscript:** [https://www.biorxiv.org/content/10.1101/2025.09.29.679336v2](https://www.biorxiv.org/content/10.1101/2025.09.29.679336v2)
+
+Kong N*, Tang Z*, et al. "A Comprehensive Benchmarking Resource for Somatic Variant Detection using HapMap Mixtures and Human Pangenome Graphs". Preprint available on bioRxiv. (2025)
