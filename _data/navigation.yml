@@ -9,44 +9,19 @@
 
 main:
   - title: "Projects"
-    url: /portfolio/
+    url: /#portfolio
     
   - title: "Publications / Talks"
-    url: /publications/
+    url: /#publications
     
   - title: "Education"
-    url: /education/
+    url: /#education
     
   - title: "Work Experience"
-    url: /work-experience/
+    url: /#work-experience
     
   - title: "Awards"
-    url: /awards/
+    url: /#awards
     
   - title: "CV"
-    url: /cv/
-
-    
-  # - title: "Publications"
-  #   url: /publications/
-
-  # - title: "Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+    url: /files/CV_Baseline_reformatted.pdf
