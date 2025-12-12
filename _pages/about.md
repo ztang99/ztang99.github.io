@@ -27,33 +27,32 @@ section:last-child {
 }
 </style>
 
-<section id="about">
+<section id="about" markdown="1">
 
 Hi there 👋 I'm Zitian. I'm a graduating Ph.D. in bioinformatics. 
-
 I'm super interested in how computational genomics and biomedical informatics help translate research findings to clinical outcomes. 
-
 I'm a strong problem-solver, communicator, and collaborator passionate about translating bioinformatics research into real-world solutions.
-
 Happy to connect via LinkedIn!
 
 **I am actively looking for full-time bioinformatics scientist position starting summer 2026. Feel free to reach out via email to discuss any potential opportunities.**
 
 </section>
 
-<section id="education">
+<section id="education" markdown="1">
 
 ## Education
 
 ### Ph.D. in Biomedical Informatics and Data Science
+
 **Washington University School of Medicine** • St. Louis, MO • 2026 • 4.00 GPA
 
 ### Bachelor of Science in Biomedical Engineering
+
 **Minor in Computer Science (AI track)** • Georgia Institute of Technology • Atlanta, GA • 2021 • 4.00 GPA
 
 </section>
 
-<section id="awards">
+<section id="awards" markdown="1">
 
 ## Awards
 
@@ -64,7 +63,7 @@ Happy to connect via LinkedIn!
 
 </section>
 
-<section id="portfolio">
+<section id="portfolio" markdown="1">
 
 ## Research Projects
 
