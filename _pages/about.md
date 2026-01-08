@@ -41,37 +41,46 @@ Happy to connect via LinkedIn!
 
 ## Projects
 
-### A Pangenomic Method for Establishing a Somatic Variant Detection Resource in HapMap Mixtures
+### RFC1 STR Expansion Detection Pipeline (WGS)
 
-[Placeholder for introduction]
+[Code](https://github.com/ztang99/STR-detection-genotyping){: .btn .btn-code} 
+[Manuscript](https://www.medrxiv.org/content/10.1101/2025.04.18.25325809v3){: .btn .btn--primary}
 
-[Code](https://github.com/ztang99/Graph-Based-Benchmark){: .btn .btn--primary} [Benchmark Resource](https://github.com/jinlab-washu/HapMap-BenchmarkSet-Manuscript){: .btn .btn--primary} [Manuscript](https://www.biorxiv.org/content/10.1101/2025.09.29.679336v2){: .btn .btn--primary}
+**Problem**: I developed a scalable, clinical-grade pipeline to detect **pathogenic RFC1 AAGGG repeat expansions** from short-read whole-genome sequencing, addressing the challenge that these intronic expansions far exceed read length and are not accurately captured/genotyped by existing tools.
 
----
+**Method**: I built an end-to-end workflow combining **genome-wide STR discovery (ExpansionHunter Denovo)**, **targeted locus genotyping (ExpansionHunter)**, **sequence validation (BLAT)**, and a **custom unsupervised ML framework** to objectively classify samples as **biallelic, monoallelic, or non-carriers** without relying on arbitrary thresholds. The pipeline was fully containerized and optimized to scale across ~800 patients and ~850 controls.
 
-### Heterozygous and Homozygous RFC1 AAGGG Repeat Expansions are Common in Idiopathic Peripheral Neuropathy
+**Result**: The method identified 22 biallelic (2.8%) and 118 monoallelic (15%) expansion carriers in patient cohort, with **>95% concordance to repeat-primed PCR**. Unsupervised clustering revealed distinct genotype signatures between biallelic and monoallelic RFC1 expansions.
 
-[Placeholder for introduction]
-
-[Code](https://github.com/ztang99/STR-detection-genotyping){: .btn .btn--primary} [Manuscript](https://www.medrxiv.org/content/10.1101/2025.04.18.25325809v3){: .btn .btn--primary}
-
----
-
-### Graph Neural Network Classifying Glioblastoma Patient Phases
-
-[Placeholder for introduction]
-
-[Code](https://github.com/JiaruiFeng/KP-GNN){: .btn .btn--primary}
-
-Code adapted from original KP-GNN implementation.
+**Impact**: This work improves diagnostic accuracy for RFC1-related neuropathies, provides a reproducible framework for STR genotyping from short-read WGS, and is **open-sourced and generalizable** to other repeat expansion disorders especially those with altered repeat motifs.
 
 ---
 
-### Graph Attention-Based Neural Network to Identify Pathogenic Biomarkers from MRI Images
+### Comprehensive Somatic Variant Benchmark (SMaHT Consortium)
 
-[Placeholder for introduction]
+[Code](https://github.com/ztang99/Graph-Based-Benchmark){: .btn .btn-code} 
+[Benchmark Resource](https://github.com/jinlab-washu/HapMap-BenchmarkSet-Manuscript){: .btn .btn-benchmark} 
+[Manuscript](https://www.biorxiv.org/content/10.1101/2025.09.29.679336v2){: .btn .btn-manuscript}
 
-[Code](https://github.com/ztang99/nnUNet_neuroimaging){: .btn .btn--primary}
+**Problem**: As part of the NIH **SMaHT Consortium**, I co-led development of a **technology-agnostic benchmarking resource** to evaluate somatic variant detection across variant classes and allele fractions—addressing a major gap in the field where existing benchmarks were limited to autosomal SNVs and based on caller consensus.
+
+**Method**: I played major roles in designing and validating a benchmark spanning **SNVs, indels, structural variants, and mobile element insertions** across **autosomes, sex chromosomes, and mitochondrial DNA**, using controlled mixtures of six HapMap cell lines to generate variants at** 0.25–16.5% allele fractions**. I contributed to implementing a **pangenome-based truth set (Minigraph-Cactus)** derived from de novo assemblies, developed **statistical validation and coverage models** using ultra-deep sequencing, and led analyses of **caller performance in difficult genomic regions**.
+
+**Result**: The final resource includes **>6M SNVs, 1.8M indels, 49K structural variants, and 10K mobile element insertions**, making it the most comprehensive somatic benchmarking dataset to date. It provides gene-level coverage recommendations for **6,600+ clinically relevant genes**, reveals systematic detection biases, and is now actively used to benchmark **research and clinical somatic variant detection pipelines**.
+
+**Impact**: This benchmark enables rigorous, future-proof evaluation of somatic variant callers and supports more reliable detection of low-frequency mosaic variants across technologies.
+
+---
+
+#### Graph Neural Network Classifying Glioblastoma Patient Phases [Code](https://github.com/JiaruiFeng/KP-GNN){: .btn .btn-code} (Code adapted from original KP-GNN implementation)
+
+---
+
+#### Graph Attention-Based Neural Network to Identify Pathogenic Biomarkers from MRI Images [Code](https://github.com/ztang99/nnUNet_neuroimaging){: .btn .btn-code} (Code forked and adapted from https://github.com/MIC-DKFZ/nnUNet)
+
+---
+
+#### Bulk RNA-seq analysis
 
 <!-- 
 Future projects:
@@ -83,12 +92,21 @@ Future projects:
 <section id="publication" markdown="1">
 
 ## Publications / Talks
-* Kong N\*, **Tang Z**\*, et al. “A Comprehensive Benchmarking Resource for Somatic Variant Detection using HapMap Mixtures and Human Pangenome Graphs”. Available on bioRxiv. (2025)
-* **Tang Z**\*, Ovunc S\*, et al. “Heterozygous and Homozygous RFC1 AAGGG Repeat Expansions are Common in Idiopathic Peripheral Neuropathy”. Available on medRxiv. (2025)
+* Kong N\*, **Tang Z**\*, et al. “A Comprehensive Benchmarking Resource for Somatic Variant Detection using HapMap Mixtures and Human Pangenome Graphs”. Available on bioRxiv: https://doi.org/10.1101/2025.09.29.679336. (2025)<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/dc60942d-29c2-41f2-8140-0b8b4003f9ad" />
+* **Tang Z**\*, Ovunc S\*, et al. “Heterozygous and Homozygous RFC1 AAGGG Repeat Expansions are Common in Idiopathic Peripheral Neuropathy”. Available on medRxiv: https://doi.org/10.1101/2025.04.18.25325809. (2025)<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/05de4215-a718-49c9-8efe-2f07e8c2825a" />
+* Fu Q, Xin Z, Miao B, Zhang W, Kong N, Tang Z, et al. “Leveraging Human Pangenome for Improved Somatic Variant Detection.” Under review at Cell Genomics. Available on bioRxiv: https://doi.org/10.64898/2026.01.04.697580. (2025)<img width="468" height="48" alt="image" src="https://github.com/user-attachments/assets/201e17e4-ec4d-4275-9a4f-510fcdc9ef61" />
 * **Somatic Mosaicism across Human Tissues Network**, Alexej Abyzov. "Comprehensive benchmarking of somatic mutation detection by the SMaHT Network". Available on bioRxiv. (2025)
-* Coorens THH, ...; **Somatic Mosaicism across Human Tissues Network**. “The somatic Mosaicism across Human Tissues Network”. Nature. 2025 Jul;643(8070):47-59. doi: 10.1038/s41586-025-09096-7. Epub 2025 Jul 2. PMID: 40604182.
 * Choi J\*, **Tang Z**\*, et al. “Unleashing the Power of Multi-Omics: Unraveling the Molecular Landscape of Peripheral Neuropathy”. Ann Clin Transl Neurol. 2025 Apr;12(4):674-685. doi: 10.1002/acn3.70019. Epub 2025 Mar 24. PMID: 40126913; PMCID: PMC12040521.
-* Invited Talk: Program Showcase for Immersion at Washington University School of Medicine. Nominated by graduate program faculty members. Aug 2024.
+* •	Coorens THH, ...; The Somatic Mosaicism across Human Tissues Network†. “The somatic Mosaicism across Human Tissues Network”. Nature. 2025 Jul;643(8070):47-59. doi: 10.1038/s41586-025-09096-7. Epub 2025 Jul 2. PMID: 40604182. 
+**†Member of consortium**
+<img width="468" height="60" alt="image" src="https://github.com/user-attachments/assets/b71d972f-ba4a-44e3-b953-cb96c55a87dd" />
+
+#### Talks
+* Invited Talk at Hope Center for Neurological Disorders Monday Noon Seminars. Nominated by HOPE center. November 2025.
+* Invited Talk at Genetics department WIP (work-in-progress). Nominated by Dr. Sheng-Chih Jin (PI). April 2025.
+* Invited Talk at Program Showcase for Immersion at Washington University School of Medicine. Nominated by graduate program faculty members. Aug 2024.
+<img width="468" height="73" alt="image" src="https://github.com/user-attachments/assets/e9891953-3f75-413a-b580-a937f6718c65" />
+
 
 
 
