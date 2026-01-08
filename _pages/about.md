@@ -89,7 +89,7 @@ Future projects:
 -->
 
 
-<section id="publication" markdown="1">
+<section id="publications-talks" markdown="1">
 
 ## Publications / Talks
 * Kong N\*, **Tang Z**\*, et al. “A Comprehensive Benchmarking Resource for Somatic Variant Detection using HapMap Mixtures and Human Pangenome Graphs”. Available on bioRxiv: https://doi.org/10.1101/2025.09.29.679336. (2025)<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/dc60942d-29c2-41f2-8140-0b8b4003f9ad" />
