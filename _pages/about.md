@@ -74,8 +74,8 @@ Happy to connect via LinkedIn!
 
 ### Bulk RNA-seq Analysis Pipeline
 
-[Code](){: .btn .btn-code}
-[Blog](../_posts/bulk_RNAseq_analysis_minimal.html){: .btn .btn-manuscript}
+[Code](https://github.com/ztang99/bioinformatics_projects/blob/main/bulk_rnaseq_analysis/bulk_RNAseq_analysis_minimal.Rmd){: .btn .btn-code} 
+[Blog](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ztang99/bioinformatics_projects/3f3ed020ecdbe9bdda9a799991b10eb0beb5663a/bulk_rnaseq_analysis/bulk_RNAseq_analysis_minimal.html){: .btn .btn-manuscript}
 
 **Problem**: Comprehensive analysis pipeline for bulk RNA-sequencing data from differential expression to pathway analysis.
 
@@ -87,8 +87,8 @@ Happy to connect via LinkedIn!
 
 ### Single-cell RNA-seq Analysis Framework
 
-[Code](){: .btn .btn-code}
-[Blog](){: .btn .btn-manuscript}
+[Code](https://github.com/ztang99/bioinformatics_projects/blob/main/single_cell_rnaseq_analysis/pbmc3k_analysis_updated.Rmd){: .btn .btn-code} 
+[Blog](https://htmlpreview.github.io/?https://raw.githubusercontent.com/ztang99/bioinformatics_projects/3f3ed020ecdbe9bdda9a799991b10eb0beb5663a/single_cell_rnaseq_analysis/pbmc3k_analysis_updated.html){: .btn .btn-manuscript}
 
 **Problem**: Analysis framework for single-cell RNA-sequencing data including cell type identification and trajectory analysis.
 
