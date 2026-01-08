@@ -44,7 +44,7 @@ Happy to connect via LinkedIn!
 ### RFC1 STR Expansion Detection Pipeline (WGS)
 
 [Code](https://github.com/ztang99/STR-detection-genotyping){: .btn .btn-code} 
-[Manuscript](https://www.medrxiv.org/content/10.1101/2025.04.18.25325809v3){: .btn .btn--primary}
+[Manuscript](https://www.medrxiv.org/content/10.1101/2025.04.18.25325809v3){: .btn .btn-manuscript}
 
 **Problem**: I developed a scalable, clinical-grade pipeline to detect **pathogenic RFC1 AAGGG repeat expansions** from short-read whole-genome sequencing, addressing the challenge that these intronic expansions far exceed read length and are not accurately captured/genotyped by existing tools.
 
