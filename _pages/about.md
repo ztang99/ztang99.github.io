@@ -72,21 +72,37 @@ Happy to connect via LinkedIn!
 
 ---
 
-#### Graph Neural Network Classifying Glioblastoma Patient Phases [Code](https://github.com/JiaruiFeng/KP-GNN){: .btn .btn-code} (Code adapted from original KP-GNN implementation)
+### Bulk RNA-seq Analysis Pipeline
+
+[Code](){: .btn .btn-code}
+[Blog](../_posts/bulk_RNAseq_analysis_minimal.html){: .btn .btn-manuscript}
+
+**Problem**: Comprehensive analysis pipeline for bulk RNA-sequencing data from differential expression to pathway analysis.
+
+**Method**: Integrated quality control, alignment, quantification, and statistical analysis using R/Bioconductor tools.
+
+**Result**: Reproducible pipeline with automated reporting and visualization capabilities.
 
 ---
 
-#### Graph Attention-Based Neural Network to Identify Pathogenic Biomarkers from MRI Images [Code](https://github.com/ztang99/nnUNet_neuroimaging){: .btn .btn-code} (Code forked and adapted from https://github.com/MIC-DKFZ/nnUNet)
+### Single-cell RNA-seq Analysis Framework
+
+[Code](){: .btn .btn-code}
+[Blog](){: .btn .btn-manuscript}
+
+**Problem**: Analysis framework for single-cell RNA-sequencing data including cell type identification and trajectory analysis.
+
+**Method**: Implemented Seurat-based pipeline with custom clustering and annotation methods.
+
+**Result**: Scalable framework for single-cell analysis with interactive visualizations.
 
 ---
 
-#### Bulk RNA-seq analysis
+### Graph Neural Network Classifying Glioblastoma Patient Phases [Code](https://github.com/JiaruiFeng/KP-GNN){: .btn .btn-code} (Code adapted from original KP-GNN implementation)
 
-<!-- 
-Future projects:
-- Bulk RNA-seq analysis project
-- Single-cell RNA-seq analysis project
--->
+---
+
+### Graph Attention-Based Neural Network to Identify Pathogenic Biomarkers from MRI Images [Code](https://github.com/ztang99/nnUNet_neuroimaging){: .btn .btn-code} (Code forked and adapted from https://github.com/MIC-DKFZ/nnUNet)
 
 
 <section id="publications-talks" markdown="1">
