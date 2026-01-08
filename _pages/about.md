@@ -147,8 +147,4 @@ Research & Development Team Intern • Huahui Health Ltd. • 2020.05 - 2021.01 
 * Faculty Honors and Dean's List recipient, Georgia Institute of Technology [2018 - 2021]
 
 
-<section id="Resume">
-
-## Resume
-
 
