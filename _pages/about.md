@@ -98,31 +98,32 @@ Happy to connect via LinkedIn!
 
 ---
 
-### Graph Neural Network Classifying Glioblastoma Patient Phases [Code](https://github.com/JiaruiFeng/KP-GNN){: .btn .btn-code} (Code adapted from original KP-GNN implementation)
+### Graph Neural Network Classifying Glioblastoma Patient Phases 
+[Code](https://github.com/JiaruiFeng/KP-GNN){: .btn .btn-code} (Code adapted from original KP-GNN implementation)
 
 ---
 
-### Graph Attention-Based Neural Network to Identify Pathogenic Biomarkers from MRI Images [Code](https://github.com/ztang99/nnUNet_neuroimaging){: .btn .btn-code} (Code forked and adapted from https://github.com/MIC-DKFZ/nnUNet)
+### Graph Attention-Based Neural Network to Identify Pathogenic Biomarkers from MRI Images 
+[Code](https://github.com/ztang99/nnUNet_neuroimaging){: .btn .btn-code} (Code forked and adapted from https://github.com/MIC-DKFZ/nnUNet)
+
+
 
 
 <section id="publications-talks" markdown="1">
 
 ## Publications / Talks
-* Kong N\*, **Tang Z**\*, et al. “A Comprehensive Benchmarking Resource for Somatic Variant Detection using HapMap Mixtures and Human Pangenome Graphs”. Available on bioRxiv: https://doi.org/10.1101/2025.09.29.679336. (2025)<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/dc60942d-29c2-41f2-8140-0b8b4003f9ad" />
-* **Tang Z**\*, Ovunc S\*, et al. “Heterozygous and Homozygous RFC1 AAGGG Repeat Expansions are Common in Idiopathic Peripheral Neuropathy”. Available on medRxiv: https://doi.org/10.1101/2025.04.18.25325809. (2025)<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/05de4215-a718-49c9-8efe-2f07e8c2825a" />
-* Fu Q, Xin Z, Miao B, Zhang W, Kong N, Tang Z, et al. “Leveraging Human Pangenome for Improved Somatic Variant Detection.” Under review at Cell Genomics. Available on bioRxiv: https://doi.org/10.64898/2026.01.04.697580. (2025)<img width="468" height="48" alt="image" src="https://github.com/user-attachments/assets/201e17e4-ec4d-4275-9a4f-510fcdc9ef61" />
+* Kong N\*, **Tang Z**\*, et al. “A Comprehensive Benchmarking Resource for Somatic Variant Detection using HapMap Mixtures and Human Pangenome Graphs”. Available on bioRxiv: https://doi.org/10.1101/2025.09.29.679336. (2025)
+* **Tang Z**\*, Ovunc S\*, et al. “Heterozygous and Homozygous RFC1 AAGGG Repeat Expansions are Common in Idiopathic Peripheral Neuropathy”. Available on medRxiv: https://doi.org/10.1101/2025.04.18.25325809. (2025)
+* Fu Q, Xin Z, Miao B, Zhang W, Kong N, Tang Z, et al. “Leveraging Human Pangenome for Improved Somatic Variant Detection.” Under review at Cell Genomics. Available on bioRxiv: https://doi.org/10.64898/2026.01.04.697580. (2025)
 * **Somatic Mosaicism across Human Tissues Network**, Alexej Abyzov. "Comprehensive benchmarking of somatic mutation detection by the SMaHT Network". Available on bioRxiv. (2025)
 * Choi J\*, **Tang Z**\*, et al. “Unleashing the Power of Multi-Omics: Unraveling the Molecular Landscape of Peripheral Neuropathy”. Ann Clin Transl Neurol. 2025 Apr;12(4):674-685. doi: 10.1002/acn3.70019. Epub 2025 Mar 24. PMID: 40126913; PMCID: PMC12040521.
 * •	Coorens THH, ...; The Somatic Mosaicism across Human Tissues Network†. “The somatic Mosaicism across Human Tissues Network”. Nature. 2025 Jul;643(8070):47-59. doi: 10.1038/s41586-025-09096-7. Epub 2025 Jul 2. PMID: 40604182. 
 **†Member of consortium**
-<img width="468" height="60" alt="image" src="https://github.com/user-attachments/assets/b71d972f-ba4a-44e3-b953-cb96c55a87dd" />
 
 #### Talks
 * Invited Talk at Hope Center for Neurological Disorders Monday Noon Seminars. Nominated by HOPE center. November 2025.
 * Invited Talk at Genetics department WIP (work-in-progress). Nominated by Dr. Sheng-Chih Jin (PI). April 2025.
 * Invited Talk at Program Showcase for Immersion at Washington University School of Medicine. Nominated by graduate program faculty members. Aug 2024.
-<img width="468" height="73" alt="image" src="https://github.com/user-attachments/assets/e9891953-3f75-413a-b580-a937f6718c65" />
-
 
 
 
