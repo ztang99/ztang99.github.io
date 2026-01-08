@@ -12,7 +12,7 @@ main:
     url: /#portfolio
     
   - title: "Publications / Talks"
-    url: /#publications
+    url: /##publications-talks
     
   - title: "Education"
     url: /#education
